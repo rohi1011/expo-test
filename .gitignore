@@ -8,6 +8,9 @@ node_modules/
 dist/
 web-build/
 
+# testing
+coverage/
+__snapshots__/
 # Native
 *.orig.*
 *.jks
