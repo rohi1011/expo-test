@@ -1,7 +1,5 @@
-Install the necessary packages 
-npm install 
+Install the necessary packages - npm install 
 
-Unit Testing 
-npm run test
+Unit Testing - npm run test
 
 
